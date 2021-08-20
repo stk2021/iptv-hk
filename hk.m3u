@@ -1,4 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-name="HK",ViuTV
+#EXTINF:-1 tvg-id="id1" tvg-name="Channel_1" tvg-logo="logo1" group-name="Group 1",Channel 1
 http://61.238.6.49:8000/bysid/99
-#EXTGRP:HK
